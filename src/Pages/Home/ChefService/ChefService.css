@@ -1,0 +1,15 @@
+.chef-service{
+    background-image: url('../../../assets/home/chef-service.jpg');
+}
+
+.parent {
+    position: relative;
+    
+  }
+  
+  .child {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    
+  }
